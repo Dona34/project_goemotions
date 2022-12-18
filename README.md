@@ -1,5 +1,6 @@
 ## PROJECT GO EMOTIONS
 
+collab was used for this project - versioning hasn't been made on Github
 
 ***Introduction***
 
